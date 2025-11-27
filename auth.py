@@ -4,12 +4,22 @@ def register_user():
     users = load_users()
 
     username = input("Username baru: ").strip()
+
+    if username == "":
+        print("Username tidak boleh kosong!")
+        input("Tekan Enter")
+        return None
+
     password = input("Password: ").strip()
+    if password == "":
+        print("Password tidak boleh kosong!")
+        input("Tekan Enter")
+        return None
 
     existing = {u["username"] for u in users}
 
     if username in existing:
-        print("Username sudah ada!")
+        print("Username sudah ada")
         input("Tekan Enter")
         return None
 
@@ -26,9 +36,17 @@ def register_user():
 
 def login_user():
     users = load_users()
-
     username = input("Username: ").strip()
+    if username == "":
+        print("Username tidak boleh kosong!")
+        input("Tekan Enter")
+        return None
+
     password = input("Password: ").strip()
+    if password == "":
+        print("Password tidak boleh kosong!")
+        input("Tekan Enter")
+        return None
 
     for u in users:
         if u["username"] == username and u["password"] == password:
