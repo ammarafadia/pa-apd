@@ -1,0 +1,234 @@
+[
+    {
+        "judul": "Spirited Away",
+        "genre": "Fantasy",
+        "tahun": "2001",
+        "added_by": "admin",
+        "ratings": {
+            "admin": 7,
+            "nana": 8
+        }
+    },
+    {
+        "judul": "My Neighbor Totoro",
+        "genre": "Fantasy",
+        "tahun": "1988",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Princess Mononoke",
+        "genre": "Romance",
+        "tahun": "1997",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Howl\u2019s Moving Castle",
+        "genre": "Fantasy",
+        "tahun": "2004",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Kiki\u2019s Delivery Service",
+        "genre": "Fantasy",
+        "tahun": "1989",
+        "added_by": "admin",
+        "ratings": {
+            "admin": 10
+        }
+    },
+    {
+        "judul": "Iron Man",
+        "genre": "Action",
+        "tahun": "2008",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Avengers: Endgame",
+        "genre": "Action",
+        "tahun": "2019",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Black Panther",
+        "genre": "Action",
+        "tahun": "2018",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Doctor Strange",
+        "genre": "Action",
+        "tahun": "2016",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Spider-Man: No Way Home",
+        "genre": "Action",
+        "tahun": "2021",
+        "added_by": "admin",
+        "ratings": {
+            "nana": 9,
+            "admin": 8
+        }
+    },
+    {
+        "judul": "Edward Scissorhands",
+        "genre": "Fantasy",
+        "tahun": "1990",
+        "added_by": "admin",
+        "ratings": {
+            "admin": 8
+        }
+    },
+    {
+        "judul": "The Nightmare Before Christmas",
+        "genre": "Animation",
+        "tahun": "1993",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Beetlejuice",
+        "genre": "Comedy",
+        "tahun": "1988",
+        "added_by": "admin",
+        "ratings": {
+            "admin": 7
+        }
+    },
+    {
+        "judul": "Sleepy Hollow",
+        "genre": "Horror",
+        "tahun": "1999",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Big Fish",
+        "genre": "Fantasy",
+        "tahun": "2003",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Harry Potter and the Sorcerer\u2019s Stone",
+        "genre": "Fantasy",
+        "tahun": "2001",
+        "added_by": "admin",
+        "ratings": {
+            "nana": 9,
+            "admin": 10
+        }
+    },
+    {
+        "judul": "The Dark Knight",
+        "genre": "Action",
+        "tahun": "2008",
+        "added_by": "admin",
+        "ratings": {
+            "nana": 9
+        }
+    },
+    {
+        "judul": "Inception",
+        "genre": "Sci-Fi",
+        "tahun": "2010",
+        "added_by": "admin",
+        "ratings": {
+            "nana": 6
+        }
+    },
+    {
+        "judul": "Wonder Woman",
+        "genre": "Action",
+        "tahun": "2017",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "The Matrix",
+        "genre": "Sci-Fi",
+        "tahun": "1999",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "The Lion King",
+        "genre": "Animation",
+        "tahun": "1994",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Aladdin",
+        "genre": "Animation",
+        "tahun": "1992",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Frozen",
+        "genre": "Animation",
+        "tahun": "2013",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Moana",
+        "genre": "Animation",
+        "tahun": "2016",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Mulan",
+        "genre": "Animation",
+        "tahun": "1998",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Hotel Transylvania",
+        "genre": "Animation",
+        "tahun": "2012",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Spider-Man: Into the Spider-Verse",
+        "genre": "Animation",
+        "tahun": "2018",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Jumanji",
+        "genre": "Action",
+        "tahun": "2017",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Men in Black",
+        "genre": "Sci-Fi",
+        "tahun": "1997",
+        "added_by": "admin",
+        "ratings": {}
+    },
+    {
+        "judul": "Ghostbusters",
+        "genre": "Comedy",
+        "tahun": "1984",
+        "added_by": "admin",
+        "ratings": {
+            "nana": 10,
+            "admin": 8
+        }
+    }
+]

@@ -126,6 +126,6 @@ def main():
             print("Pilihan tidak valid.")
             sleep(1)
 
-
-if __name__ == "_main_":
+            
+if __name__ == "__main__":
     main()

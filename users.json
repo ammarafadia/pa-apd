@@ -8,5 +8,20 @@
         "username": "nana",
         "password": "0090",
         "role": "user"
+    },
+    {
+        "username": "Nulaa",
+        "password": "8890",
+        "role": "user"
+    },
+    {
+        "username": "lulu",
+        "password": "1234",
+        "role": "user"
+    },
+    {
+        "username": "Lala",
+        "password": "",
+        "role": "user"
     }
 ]

@@ -10,6 +10,7 @@ def register_user():
 
     if username in existing:
         print("Username sudah ada!")
+        input("Tekan Enter")
         return None
 
     new_user = {
